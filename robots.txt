@@ -1,0 +1,3 @@
+﻿User-agent: *
+Host: lapov.org
+Sitemap: http://lapov.org/sitemap.xml
